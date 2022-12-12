@@ -1,16 +1,14 @@
-# winscode-pro-11 README
+# WinsCode 11
 
-## Working with Markdown
+## Currently under development!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+My aim for this theme are, simplicity and harmony. This theme will be:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* Easy for your eyes,
+* Easy for your brain, (consistency & simplicity)
+* Fully harmonized with [Windows 11](https://www.microsoft.com/windows/windows-11),
+* A joy to use,
 
-## For more information
+## Best UX principles applied!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**VS Code never felt this native...**
