@@ -1008,7 +1008,7 @@
 		"minimapGutter.modifiedBackground": "#5E9AEDC5",
 		"minimapGutter.deletedBackground": "#ED5E5EC5",
 		//
-		"minimap.foregroundOpacity": "#000000C5",
+		"minimap.foregroundOpacity": "#000000FF",
 		"minimap.findMatchHighlight": "#D371F4C5",
 		"minimap.selectionHighlight": "#5E9AEDC5",
 		"minimap.errorHighlight": "#ED5E5EC5",
