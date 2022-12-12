@@ -1,0 +1,21 @@
+{
+  "name": "winscode-pro-11",
+  "displayName": "WinsCode Pro 11",
+  "description": "Winscode Pro 11 Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WinsCode Pro 11 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinsCode Pro 11 Dark-color-theme.json"
+      }
+    ]
+  }
+}
