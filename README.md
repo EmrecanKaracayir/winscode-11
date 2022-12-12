@@ -2,7 +2,7 @@
 
 ## Currently under development!
 
-My aim for this theme are, simplicity and harmony. This theme will be:
+My aims for this theme are, simplicity and harmony. This theme will be:
 
 * Easy for your eyes,
 * Easy for your brain, (consistency & simplicity)
