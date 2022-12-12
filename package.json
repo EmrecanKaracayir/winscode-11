@@ -6,8 +6,18 @@
   "publisher": "EmrecanKaracayir",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/EmrecanKaracayir/winscode-11"
   },
+  "keywords": [
+    "theme",
+    "minimalist",
+    "fluent",
+    "winui",
+    "dark theme",
+    "windows",
+    "11",
+    "windows 11"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
