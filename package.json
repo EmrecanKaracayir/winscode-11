@@ -1,8 +1,13 @@
 {
-  "name": "winscode-pro-11",
-  "displayName": "WinsCode Pro 11",
-  "description": "Winscode Pro 11 Theme!",
+  "name": "winscode-11",
+  "displayName": "WinsCode 11",
+  "description": "Under Development!",
   "version": "0.0.1",
+  "publisher": "EmrecanKaracayir",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -12,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "WinsCode Pro 11 Dark",
+        "label": "WinsCode 11 Dark #60CDFF",
         "uiTheme": "vs-dark",
-        "path": "./themes/WinsCode Pro 11 Dark-color-theme.json"
+        "path": "./themes/WinsCode 11 Dark #60CDFF-color-theme.json"
+      },
+      {
+        "label": "WinsCode 11 Dark #30EA6D",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinsCode 11 Dark #30EA6D-color-theme.json"
       }
     ]
   }
