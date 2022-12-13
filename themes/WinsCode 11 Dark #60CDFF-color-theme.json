@@ -795,7 +795,6 @@
 	],
 	"colors": {
 		// Unknown
-		"tree.tableOddRowsBackground": "#ff0000",
 		"activityBarItem.profilesBackground": "#ff0000",
 		"activityBarItem.profilesForeground": "#ff0000",
 		"activityBarItem.profilesHoverForeground": "#ff0000",
@@ -868,6 +867,7 @@
 		//
 		"tree.tableColumnsBorder": "#FFFFFF15",
 		"tree.indentGuidesStroke": "#FFFFFF15",
+		"tree.tableOddRowsBackground": "#202020",
 		"list.dropBackground": "#FFFFFF0F",
 		"list.highlightForeground": "#60CDFF",
 		"list.focusBackground": "#FFFFFF0F",
@@ -1013,7 +1013,7 @@
 		"minimap.selectionHighlight": "#5E9AEDC5",
 		"minimap.errorHighlight": "#ED5E5EC5",
 		"minimap.warningHighlight": "#E08D52C5",
-		"minimap.background": "#282828",
+		"minimap.background": "#282828C5",
 		"minimap.selectionOccurrenceHighlight": "#FFFFFF34",
 		//
 		"minimapSlider.activeBackground": "#FFFFFF15",
