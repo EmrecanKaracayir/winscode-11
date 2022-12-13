@@ -881,7 +881,7 @@
 		"list.focusAndSelectionOutline": "#FFFFFF",
 		"list.inactiveFocusBackground": "#FFFFFF0F",
 		"list.inactiveFocusOutline": "#FFFFFF0F",
-		"list.focusHighlightForeground": "#000000",
+		"list.focusHighlightForeground": "#30EA6D",
 		"list.inactiveSelectionIconForeground": "#FFFFFFC5",
 		"list.invalidItemForeground": "#ED5E5E",
 		
