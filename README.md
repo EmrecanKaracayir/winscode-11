@@ -16,6 +16,42 @@ My aims for this theme are, simplicity and harmony. This theme will be:
 ![No Vibrancy](res/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-12-12%20205925.png)
 
 My recommended settings:
+asc/.amjv[sdkmv df
+ fg 
+ fg
+  sfg
+   fg
+    sfg
+     
+     
+      
+      fg
+       fgh 
+       
+       dg 
+       
+       dg
+        
+        dg
+         
+         dg
+          
+           
+           g
+            
+            gh
+             
+             gn
+              
+               
+               nh
+               
+                
+                 
+                 gn
+                 gth
+                  
+                   ]
 
     {
         "editor.fontFamily": "Cascadia Code",
