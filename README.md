@@ -9,13 +9,49 @@ My aims for this theme are, simplicity and harmony. This theme will be:
 * Fully harmonized with [Windows 11](https://www.microsoft.com/windows/windows-11),
 * A joy to use,
 
-## Best UX principles applied!
+## Best UX principles applied
 
 ![With Vibrancy](res/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-12-12%20205445.png)
 
 ![No Vibrancy](res/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-12-12%20205925.png)
 
 My recommended settings:
+asc/.amjv[sdkmv df
+ fg 
+ fg
+  sfg
+   fg
+    sfg
+     
+     
+      
+      fg
+       fgh 
+       
+       dg 
+       
+       dg
+        
+        dg
+         
+         dg
+          
+           
+           g
+            
+            gh
+             
+             gn
+              
+               
+               nh
+               
+                
+                 
+                 gn
+                 gth
+                  
+                   ]
 
     {
         "editor.fontFamily": "Cascadia Code",
