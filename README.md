@@ -1,1 +1,1 @@
-# DEPRECATED: Please make transition to [Codemos Modern](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)!
+## DEPRECATED: Please make transition to [Codemos Modern](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)!
